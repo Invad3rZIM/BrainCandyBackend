@@ -1,2 +1,0 @@
-# BrainCandyBackend
-Therapeutic Converations
